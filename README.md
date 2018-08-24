@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to
 
-how to text
+Please fork this repository and issue pull requests for review
 
 #How to 2
 
